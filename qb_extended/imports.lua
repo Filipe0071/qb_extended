@@ -1,0 +1,1 @@
+QBEXT = exports["qb_extended"]:getSharedObject()
